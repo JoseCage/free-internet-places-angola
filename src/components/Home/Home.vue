@@ -29,8 +29,7 @@ import axios from 'axios'
       }
     },
     created () {
-      //axios.get('https://freeinternetapi.now.sh/places')
-      axios.get('http://localhost:3000/places')
+      axios.get('https://freeinternetapi.now.sh/places')
       .then(response => {
         this.places = response.data
       })
