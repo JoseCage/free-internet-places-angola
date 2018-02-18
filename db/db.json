@@ -1,0 +1,84 @@
+{
+    "places": [
+        {
+            "id": 1,
+            "name": "Angola Online 1º de Maio",
+            "description": "Espaço Angola Online do 1º de maio",
+            "city": "Luanda",
+            "neigh": "Luanda",
+            "map_lat": "-8.8268761",
+            "map_long": "13.2436467",
+            "thumb": "http://via.placeholder.com/260x160"
+        },
+        {
+            "id": 2,
+            "name": "Angola Online 1º de Maio",
+            "description": "Espaço Angola Online do 1º de maio",
+            "city": "Luanda",
+            "neigh": "Luanda",
+            "map_lat": "-8.8268761",
+            "map_long": "13.2436467",
+            "thumb": "http://via.placeholder.com/260x160"
+        },
+        {
+            "id": 3,
+            "name": "Angola Online 1º de Maio",
+            "description": "Espaço Angola Online do 1º de maio",
+            "city": "Luanda",
+            "neigh": "Luanda",
+            "map_lat": "-8.8268761",
+            "map_long": "13.2436467",
+            "thumb": "http://via.placeholder.com/260x160"
+        },
+        {
+            "id": 4,
+            "name": "Angola Online 1º de Maio",
+            "description": "Espaço Angola Online do 1º de maio",
+            "city": "Luanda",
+            "neigh": "Luanda",
+            "map_lat": "-8.8268761",
+            "map_long": "13.2436467",
+            "thumb": "http://via.placeholder.com/260x160"
+        },
+        {
+            "id": 5,
+            "name": "Angola Online 1º de Maio",
+            "description": "Espaço Angola Online do 1º de maio",
+            "city": "Luanda",
+            "neigh": "Luanda",
+            "map_lat": "-8.8268761",
+            "map_long": "13.2436467",
+            "thumb": "http://via.placeholder.com/260x160"
+        },
+        {
+            "id": 6,
+            "name": "Angola Online 1º de Maio",
+            "description": "Espaço Angola Online do 1º de maio",
+            "city": "Luanda",
+            "neigh": "Luanda",
+            "map_lat": "-8.8268761",
+            "map_long": "13.2436467",
+            "thumb": "http://via.placeholder.com/260x160"
+        },
+        {
+            "id": 7,
+            "name": "Angola Online 1º de Maio",
+            "description": "Espaço Angola Online do 1º de maio",
+            "city": "Luanda",
+            "neigh": "Luanda",
+            "map_lat": "-8.8268761",
+            "map_long": "13.2436467",
+            "thumb": "http://via.placeholder.com/260x160"
+        },
+        {
+            "id": 8,
+            "name": "Angola Online 1º de Maio",
+            "description": "Espaço Angola Online do 1º de maio",
+            "city": "Luanda",
+            "neigh": "Luanda",
+            "map_lat": "-8.8268761",
+            "map_long": "13.2436467",
+            "thumb": "http://via.placeholder.com/260x160"
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+{
+  "/api/": "/",
+  "/places/cities/:city": "/places?city=:city"
+}

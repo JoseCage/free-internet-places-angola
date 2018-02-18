@@ -1,0 +1,15 @@
+{
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "json-server,heroku, node, REST API"
+  ],
+  "author": "José Cage <josejanuario7@gmail.com> (https://josecage.com)",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.12.1"
+  }
+}
